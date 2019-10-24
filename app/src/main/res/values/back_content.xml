@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <string-array name="back_head">
+
+        <item>Pull Ups</item>
+        <item>Lat Pulldown</item>
+        <item>Barbbell Row</item>
+        <item>Seated Row</item>
+        <item>Dumbbell Row</item>
+        <item>T Bar</item>
+        <item>Cable Row</item>
+        <item>Good Morning</item>
+        <item>Dead Lift</item>
+
+    </string-array>
+
+
+    <string-array name="back_content">
+
+        <item>Grab The Bar. Grip it about shoulder-width apart. Full grip with your palms down.
+\n\nHang:Raise your feet off the floor by bending your knees. Hang with straight arms.
+\n\nPull:Pull yourself up by pulling your elbows down to the floor. Keep your elbows close.
+\n\nPass The bar:Pull yourself all the way up until your chin passes the bar. Don’t do half reps.
+\n\nRepeat:Lower yourself all the way down until your arms are straight. Breathe. Pullup again.
+        </item>
+
+
+        <item>Keep your chest tall/bring your chest to the bar
+\n\nKeep your elbows pointed straight down
+\n\nSqueeze your lats/think of pulling from your armpits
+\n\nLower to your chin or just below
+\n\nGrab just outside your shoulders or a little wider
+\n\nAlso try using the ‘V-grip’ handle</item>
+
+
+        <item>Holding a barbell with a pronated grip (palms facing down), bend your knees slightly and bring your torso forward, by bending at the waist, while keeping the back straight until it is almost parallel to the floor. Tip: Make sure that you keep the head up. The barbell should hang directly in front of you as your arms hang perpendicular to the floor and your torso. This is your starting position.
+            \n\nNow, while keeping the torso stationary, breathe out and lift the barbell to you. Keep the elbows close to the body and only use the forearms to hold the weight. At the top contracted position, squeeze the back muscles and hold for a brief pause.
+\n\nThen inhale and slowly lower the barbell back to the starting position.
+\n\nRepeat for the recommended amount of repetitions.</item>
+
+
+        <item>Step 1:Adjust the seat to the correct height and if applicable adjust the chest pad for your correct reach.
+            \n\nStep 2:Select an appropriate weight for the exercise.
+            \n\nStep 3:Take hold of the handles using your preferred grip (either wide or narrow).
+            \n\nStep 4:Brace the abdominals and back muscles to maintain a straight back position.
+            \n\nStep 5:Breathe in and pull the handles in towards you.
+            \n\nStep 6:Pause briefly and squeeze the shoulder blades together at the end of the movement.
+            \n\nStep 7:Breathe out slowly and gradually return the handles to the start position.</item>
+
+
+        <item>Choose a flat bench and place a dumbbell on each side of it.
+\n\nPlace the right leg on top of the end of the bench, bend your torso forward from the waist until your upper body is parallel to the floor, and place your right hand on the other end of the bench for support.
+\n\nUse the left hand to pick up the dumbbell on the floor and hold the weight while keeping your lower back straight. The palm of the hand should be facing your torso. This will be your starting position.
+\n\nPull the resistance straight up to the side of your chest, keeping your upper arm close to your side and keeping the torso stationary. Breathe out as you perform this step. Tip: Concentrate on squeezing the back muscles once you reach the full contracted position. Also, make sure that the force is performed with the back muscles and not the arms. Finally, the upper torso should remain stationary and only the arms should move. The forearms should do no other work except for holding the dumbbell; therefore do not try to pull the dumbbell up using the forearms.
+\n\nLower the resistance straight down to the starting position. Breathe in as you perform this step.
+\n\nRepeat the movement for the specified amount of repetitions.
+\n\nSwitch sides and repeat again with the other arm.</item>
+
+
+        <item>Position a bar into a landmine or in a corner to keep it from moving. Load an appropriate weight onto your end.
+\n\nStand over the bar, and position a Double D row handle around the bar next to the collar. Using your hips and legs, rise to a standing position.
+\n\nAssume a wide stance with your hips back and your chest up. Your arms should be extended. This will be your starting position.
+\n\nPull the weight to your upper abdomen by retracting the shoulder blades and flexing the elbows. Do not jerk the weight or cheat during the movement.
+\n\nAfter a brief pause, return to the starting position.</item>
+
+
+        <item>Sit upright on the bench, facing the low pulley row machine with a V-bar.
+\n\nKeep your feet up on the front platform, making sure your knees are slightly bent but not locked.
+\n\nLean over, keeping the natural alignment of your back, and grab the V-bar.
+\n\nKeep your arms extended and pull back your torso so that it is at a right angle with your legs. Keep your lower back slightly arched, chest out, and shoulders relaxed. This is the starting position.
+\n\nKeeping your torso stationary, pull the handles of the V-bar back. Breathe out, keep your arms close to your body, and pull the V-bar until your thumbs touch your abs. Squeeze your back muscles.
+\n\nHold this pose for a second. Slowly release the contraction and go back to the starting position.</item>
+
+
+        <item>Begin with a bar on a rack at shoulder height. Rack the bar across the rear of your shoulders as you would a power squat, not on top of your shoulders. Keep your back tight, shoulder blades pinched together, and your knees slightly bent. Step back from the rack.
+\n\nBegin by bending at the hips, moving them back as you bend over to near parallel. Keep your back arched and your cervical spine in proper alignment.
+\n\nReverse the motion by extending through the hips with your glutes and hamstrings. Continue until you have returned to the starting position.</item>
+
+
+        <item>Walk to the bar. Stand with your mid-foot under the bar. Your shins shouldn’t touch it yet. Put your heels hip-width apart, narrower than on Squats. Point your toes out 15°.
+\n\nGrab the bar. Bend over without bending your legs. Grip the bar narrow, about shoulder-width apart like on the Overhead Press. Your arms must be vertical when looking from the front.
+\n\nBend your knees. Drop into position by bending your knees until your shins touch the bar. Do NOT let the bar move away from your mid-foot. If it moves, start from scratch with step one.
+\n\nLift your chest. Straighten your back by raising you chest. Do not change your position – keep the bar over your mid-foot, your shins against the bar, and your hips where they are.
+\n\nPull. Take a big breath, hold it and stand up with the weight. Keep the bar in contact with your legs while you pull. Don’t shrug or lean back at the top. Lock your hips and knees.
+        </item>
+
+
+
+
+    </string-array>
+</resources>

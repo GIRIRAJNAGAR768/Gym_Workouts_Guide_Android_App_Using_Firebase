@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="gym.workouts.guide">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission
+        android:name="android.permission.READ_PHONE_STATE"
+        tools:node="remove" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/logoround2"
+        android:label="Gym Guide"
+        android:roundIcon="@drawable/logoround2"
+        android:theme="@style/AppTheme"
+        tools:node="replace"
+        tools:ignore="GoogleAppIndexingWarning"
+
+        >
+
+        <activity
+            android:name=".SplashActivity"
+            android:theme="@style/fullscreen">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".Grid_Activity"
+            android:label="Gym Workouts" />
+        <activity
+            android:name=".ActivityDiet"
+            android:label="Daily Diet Plan"
+            />
+        <activity
+            android:name=".ExerListActivity"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name=".ExerLastActivity"
+            android:theme="@style/AppTheme.NoActionBar"/>
+        <activity
+            android:name=".DietLastActivity"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Daily_Quotes"
+            android:theme="@style/AppTheme.NoActionBar"
+            android:label="Gym Quote Of The Day" />
+        <activity
+            android:name=".GymMachinesActivity"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name=".HomeActivity"
+           android:label="Gym Workouts Guide" />
+
+
+        <meta-data
+            android:name="com.google.android.gms.ads.APPLICATION_ID"
+            android:value="ca-app-pub-3303054497534652~5723229699"/>
+
+        <meta-data android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
+        <activity android:name="com.google.android.gms.ads.AdActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|uiMode|screenSize|smallestScreenSize"> </activity>
+
+    </application>
+
+</manifest>

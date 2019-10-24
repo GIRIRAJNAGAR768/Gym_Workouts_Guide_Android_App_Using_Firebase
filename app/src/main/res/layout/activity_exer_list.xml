@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RelativeLayout
+
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:ad="http://schemas.android.com/apk/res-auto"
+    android:background="#d4d28080"
+    android:layout_height="match_parent"
+    android:layout_width="match_parent">
+    <TextView
+        android:id="@+id/heading"
+        android:layout_width="match_parent"
+        android:layout_height="50sp"
+        android:gravity="center"
+        android:text="Barbell curl exerc"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:textColor="#ffffff"
+        android:background="#182d48"
+        android:padding="5sp"
+        />
+
+         <LinearLayout
+             android:id="@+id/ll"
+             android:layout_width="match_parent"
+            android:layout_height="match_parent"
+             android:layout_marginBottom="2sp"
+             android:layout_above="@+id/adView"
+             android:layout_below="@+id/heading"
+             android:layout_marginLeft="2sp"
+             android:layout_marginRight="2sp"
+             android:layout_marginTop="2sp">
+       <ListView
+        android:id="@+id/list"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/grid_item_corner"
+        android:columnWidth="140dp"
+        android:dividerHeight="2sp"
+        android:verticalSpacing="1dp"/>
+    </LinearLayout>
+
+    <com.google.android.gms.ads.AdView
+        xmlns:ads="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/adView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentBottom="true"
+        ads:adSize="BANNER"
+        android:background="#000000"
+        ads:adUnitId="@string/banner">
+    </com.google.android.gms.ads.AdView>
+
+
+</RelativeLayout>

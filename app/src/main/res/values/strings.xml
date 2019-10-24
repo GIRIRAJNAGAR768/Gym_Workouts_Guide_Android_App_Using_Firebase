@@ -1,0 +1,33 @@
+<resources>
+
+
+    <string name="app_name">Gym Guide</string>
+
+<!--
+    <string name="gymBanner">ca-app-pub-1905527636191274/9627218985</string>
+    <string name="gymInter">ca-app-pub-1905527636191274/1748728969</string>-->
+
+    <string name="title_activity_more_workout_apps">MoreWorkoutApps</string>
+
+    <!-- Test ads-->
+    <!--  <string name="banner">ca-app-pub-3940256099942544/6300978111</string>
+      <string name="inter">ca-app-pub-3940256099942544/1033173712</string>
+      <string name="video">ca-app-pub-3940256099942544/5224354917</string>-->
+
+       <string name="banner">ca-app-pub-3303054497534652/1783984685</string>
+        <string name="inter">ca-app-pub-3303054497534652/2205467143</string>
+        <string name="video">ca-app-pub-3303054497534652/3326977120</string>
+
+
+      <string-array name="more_head">
+
+          <item>Chest Workouts</item>
+          <item>Bicep workouts</item>
+          <item>Back Workouts</item>
+          <item>Tricep Workouts</item>
+          <item>Shoulder Workouts</item>
+          <item>Leg Workouts</item>
+      </string-array>
+
+
+  </resources>

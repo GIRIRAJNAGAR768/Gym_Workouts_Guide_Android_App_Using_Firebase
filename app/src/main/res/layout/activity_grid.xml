@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:background="#ffffff"
+    android:layout_gravity="center"
+    android:layout_height="match_parent"
+    android:layout_width="match_parent">
+<LinearLayout
+
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:background="#ffffff"
+    android:layout_gravity="center"
+    android:layout_height="wrap_content"
+    android:layout_width="wrap_content"
+    android:id="@+id/activity_mgridfort"
+    tools:context="com.Gym.gym.Gym.gym.Grid_Activity">
+
+    <GridView
+        android:layout_height="match_parent"
+        android:layout_width="match_parent"
+        android:id="@+id/grid"
+        android:numColumns="2"
+        android:background="@drawable/grid_item_corner"
+        android:verticalSpacing="1dp"
+        android:horizontalSpacing="2dp"
+        android:layout_alignParentTop="true"
+        android:layout_margin="2sp"
+        android:columnWidth="140dp"/>
+</LinearLayout>
+</LinearLayout>
